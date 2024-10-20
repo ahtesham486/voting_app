@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Users\\PC\\anaconda3\\Lib\\site-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\PC\\anaconda3\\Lib\\site-packages"
+    ]
+}
